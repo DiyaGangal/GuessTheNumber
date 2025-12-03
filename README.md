@@ -4,7 +4,9 @@ I made a game using C programming Languange. In this game system will choose a n
 
 # FILES REQUIRED
 stdio.h
+
 stdlib.h
+
 time.h
 
 # HOW GAME WORKS
