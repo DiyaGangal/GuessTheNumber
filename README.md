@@ -51,8 +51,8 @@ This assignment helped me learn:
 2. Run the following command
 
 ```bash
-gcc main.c guessnumber.c arraylib.c -o prog
-./prog
+clang guessnumber.c -o game
+./game
 
 
 
