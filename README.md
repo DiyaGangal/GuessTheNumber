@@ -1,4 +1,4 @@
-## =====GUESS THE NUMBER=====
+# =====GUESS THE NUMBER=====
 This repository contain my C programming assingnment.
 
 I made a game using C programming Languange. In this game system will choose a number between 1 to 100 you have to guess this no.
@@ -10,7 +10,7 @@ stdlib.h
 
 time.h
 
-# HOW GAME WORKS
+## HOW GAME WORKS
 1. The system randomly chooses a number between 1 to 100 
 
 2. You enter a number to guess it
@@ -24,7 +24,7 @@ time.h
 
 5. It displays a success message with the total attempts you took
 
-# FEATURES
+## FEATURES
 
 1. Random number every time you play
 
@@ -32,7 +32,7 @@ time.h
 
 3. Shows hints to help the player guess correctly
 
-# PURPOSE OF THIS PROGRAM
+## PURPOSE OF THIS PROGRAM
 
 This assignment helped me learn:
 
@@ -44,11 +44,16 @@ This assignment helped me learn:
 
 4. Basic game development logic
 
-# HOW TO RUN THE PROGRAM
+## How to compile and run
 
-Save the file as guess_number.c
+### Using GCC (on command line)
+1. Open folder
+2. Run the following command
 
-Compile using GCC (example):
+```bash
+gcc main.c guessnumber.c arraylib.c -o prog
+./prog
+
 
 
 
