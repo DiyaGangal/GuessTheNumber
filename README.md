@@ -1,5 +1,6 @@
 ## =====GUESS THE NUMBER=====
 This repository contain my C programming assingnment.
+
 I made a game using C programming Languange. In this game system will choose a number between 1 to 100 you have to guess this no.
 
 # FILES REQUIRED
